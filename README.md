@@ -1,4 +1,6 @@
-comp1950
+# comp1950
+This is my first repository.
 ========
 
-Repo for school.
+## Repo for school.
+This is part of my COMP1950 class at BCIT.
